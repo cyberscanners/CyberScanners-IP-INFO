@@ -36,7 +36,7 @@ echo -e "${GREEN}                                > DEVALOPER CYBER BLACK LION! <
 
 # IP Lookup Tool - Termux Bash Script
 
-echo "IP Lookup Tool"
+echo "IP-INFO Tool"
 echo "-------------------------------------------"
 
 read -p "Enter IP or domain (leave blank for your own IP): " target
