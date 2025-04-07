@@ -32,6 +32,7 @@ echo " ██║██╔═══╝ ╚════╝██║██║╚█
 echo " ██║██║           ██║██║ ╚████║██║     ╚██████╔╝"
 echo " ╚═╝╚═╝           ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝ "
 
+echo -e "${GREEN}                                > DEVALOPER CYBER BLACK LION! <<${NC}"
 
 # IP Lookup Tool - Termux Bash Script
 
