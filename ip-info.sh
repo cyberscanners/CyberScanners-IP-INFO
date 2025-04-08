@@ -1,5 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+clear
+
 #color
 y="\e[1;33m"
 r="\e[1;31m"
