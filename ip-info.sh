@@ -36,6 +36,8 @@ echo " ╚═╝╚═╝           ╚═╝╚═╝  ╚═══╝╚═╝
 
 echo -e "${GREEN}                                > DEVALOPER CYBER BLACK LION! <<${NC}"
 
+termux-open-url https://chat.whatsapp.com/HlH3EfeFlar5Fy1YCieMKJ
+
 # IP Lookup Tool - Termux Bash Script
 
 echo "IP-INFO Tool"
