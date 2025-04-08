@@ -1,5 +1,19 @@
 # CyberScanners-IP-INFO 
 
+
+TERMUX INSTALL
+
+$ pkg update && pkg upgrade
+
+$ pkg install git
+
+$ git clone https://github.com/cyberscanners/CyberScanners-IP-INFO.git
+
+$ cd CyberScanners-IP-INFO
+
+$ bash ip-info.sh
+
+
 මෙම hacking tool එකෙන් කරන්නේ මොකක්ද?
 
 1. IP එකක් එකක් input එකක් ලෙස දෙනවා
@@ -10,26 +24,26 @@
 
 3. ip එක භාවිතා කරලා ඒ IP එකේ:
 
-Country
+• Country
 
-Region
+• Region
 
-City
+• City
 
-ISP
+• ISP
 
-Location (latitude/longitude – approx.)
+• Location (latitude/longitude – approx.)
 
-Timezone
+• Timezone
 
-Organization
+• Organization
 වැනි තොරතුරු ලබා දෙනවා.
 
 උදාහරණ:
 
-ඔයා run කරලා 8.8.8.8 දුන්නා කියමු:
+* ඔයා run කරලා 8.8.8.8 දුන්නා කියමු:
 
-Enter IP or domain (leave blank for your own IP): 8.8.8.8
+* Enter IP or domain (leave blank for your own IP): 8.8.8.8
 
 Output එක මෙහෙම වන්න පුළුවන්:
 
